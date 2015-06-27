@@ -24,6 +24,7 @@ sudo apt-get install whois
 sudo apt-get install redshift
 sudo apt-get install redshift-gtk
 sudo apt-get install aptitude
+sudo apt-get install terminator
 
 # Fixing the Macbook Pro touchpad
 
